@@ -1,2 +1,3 @@
 # assemblylanguage_wangshuang
-All teh
+All the test point in the book.
+
