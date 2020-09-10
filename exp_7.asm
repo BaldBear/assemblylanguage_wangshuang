@@ -45,9 +45,9 @@ start:
 		mov ax,table
 		mov es,ax
 
-		mov di,0		;ds:[di]
-		mov si,84		;ds:[si]
-		mov bx,168		;ds:[bx]
+		mov di,0		;ds:[di] 年份
+		mov si,84		;ds:[si] 总收入
+		mov bx,168		;ds:[bx] 员工数
 		mov bp,0		;es:[bp]
 
 		mov cx,21
